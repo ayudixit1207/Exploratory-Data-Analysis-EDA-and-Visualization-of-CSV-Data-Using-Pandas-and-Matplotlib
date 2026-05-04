@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-EDA-and-Visualization-of-CSV-Data-Using-Pandas-and-Matplotlib
+his project uses Pandas to analyze data from a CSV file and perform basic operations like calculating averages and cleaning data. Matplotlib is used to create visualizations such as bar charts, scatter plots, and heatmaps. The project helps in identifying patterns and deriving meaningful insights from the data.
