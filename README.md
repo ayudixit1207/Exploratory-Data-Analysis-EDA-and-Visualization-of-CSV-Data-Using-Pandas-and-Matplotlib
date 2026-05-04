@@ -35,12 +35,14 @@ Used describe() for statistical summary
 Checked missing values using:
 isnull()
 isnull().sum()
+
 4. Data Analysis
 Calculated average total revenue
 Grouped data by product category to find:
 Mean revenue
 Total units sold
-Visualizations
+
+5.Visualizations
 Bar Chart – Product Category vs Units Sold
 Line Plot – Product Name vs Total Revenue
 Scatter Plot – Total Revenue vs Units Sold
@@ -50,6 +52,7 @@ Some product categories contribute significantly more to revenue
 Higher units sold generally lead to higher revenue (positive correlation)
 Revenue varies across regions and payment methods
 Certain products dominate total revenue
+
 How to Run
 
 Install required libraries:
